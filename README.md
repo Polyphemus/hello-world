@@ -1,2 +1,2 @@
 # hello-world
-repo tutorial
+I'm doing the github repo tutorial
